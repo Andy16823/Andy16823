@@ -2,7 +2,7 @@
 
 🎮 **Software & Game Developer**  
 📍 Kaiserslautern, Germany  
-🌐 Visit my website: https://gfx-engine.org :contentReference[oaicite:1]{index=1}
+🌐 Visit my website: https://gfx-engine.org
 
 I build **game engines**, **graphics systems**, and **developer tools** — mostly in **C++**, **C#**, **PHP**, and related technologies.
 
