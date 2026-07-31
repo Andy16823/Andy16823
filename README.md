@@ -29,17 +29,11 @@ I build **game engines**, **graphics systems**, and **developer tools** — most
 
 Here are some of my pinned repositories (auto-shown on my profile):
 
-### 🧠 Core Engine Projects
+### 🧠 Core Projects
 - **GFX-Vulkan** – Vulkan-based graphics engine foundation.
 - **GFX-Next** – Next version of the GFX Game Engine for .NET (2D/3D). 
 - **GFX** – Simple 2D & 3D Game Framework using C# + OpenGL.
 - **GFX-Net-Core** – .NET Core version of the GFX engine.
-
-### 🗃 Other Projects
-- **DATAROWZ** – (C#) Utility / data-driven project.
-- **quanta** – PHP modular framework designed for simplicity and flexibility.
-
-> Check out my repos section to explore all projects and tools I’m working on.
 
 ---
 
